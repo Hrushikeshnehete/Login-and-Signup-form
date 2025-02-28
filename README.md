@@ -1,1 +1,3 @@
 # Login-and-Signup-form
+
+This project is a modern and responsive Login & Signup Form built using HTML, CSS, Bootstrap, and JavaScript.smooth animations, and a seamless toggle between login and signup forms. The form includes essential fields such as email, password, and a state dropdown in the signup section. Bootstrap ensures a mobile-friendly design, while JavaScript adds interactivity. This project is ideal for authentication systems in web applications. It can be easily customized and integrated into various projects. 
